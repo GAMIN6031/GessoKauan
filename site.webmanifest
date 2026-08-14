@@ -1,0 +1,26 @@
+{
+  "name": "Gesso Kauan",
+  "short_name": "Gesso Kauan",
+  "description": "Soluções em gesso, drywall e acabamentos em São Paulo.",
+  "lang": "pt-BR",
+  "start_url": "/GessoKauan/#/",
+  "scope": "/GessoKauan/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071321",
+  "theme_color": "#071321",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

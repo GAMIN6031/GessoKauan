@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# A página 404 apenas redireciona rotas do GitHub Pages.
+Disallow: /GessoKauan/404.html
+
+Sitemap: https://gamin6031.github.io/GessoKauan/sitemap.xml

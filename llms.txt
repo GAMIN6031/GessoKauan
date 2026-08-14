@@ -1,0 +1,46 @@
+# Gesso Kauan
+
+> Empresa de gesso, drywall e acabamentos em São Paulo, com atuação desde 2010.
+
+Site oficial: https://gamin6031.github.io/GessoKauan/
+Instagram: https://www.instagram.com/gessokauan/
+WhatsApp: https://wa.me/5511947204939
+Telefone: (11) 94720-4939
+Localidade: São Paulo, SP, Brasil
+
+## Sobre
+
+A Gesso Kauan trabalha com soluções de gesso e drywall para ambientes residenciais e comerciais. O site apresenta serviços, referências visuais, cenas 3D e canais diretos de contato.
+
+## Principais serviços
+
+- Forros de Gesso e Drywall
+- Sancas e Iluminação
+- Divisórias em Drywall
+- Molduras e Acabamentos
+- Painéis e Revestimentos 3D
+- Reparos e Reformas
+
+## Páginas principais
+
+- Home: https://gamin6031.github.io/GessoKauan/#/
+- Serviços: https://gamin6031.github.io/GessoKauan/#/servicos
+- Links e contato: https://gamin6031.github.io/GessoKauan/#/links
+
+## Serviços
+
+- Forros de Gesso e Drywall: https://gamin6031.github.io/GessoKauan/#/servicos/forros-de-gesso-e-drywall
+- Sancas e Iluminação: https://gamin6031.github.io/GessoKauan/#/servicos/sancas-e-iluminacao
+- Divisórias em Drywall: https://gamin6031.github.io/GessoKauan/#/servicos/divisorias-em-drywall
+- Molduras e Acabamentos: https://gamin6031.github.io/GessoKauan/#/servicos/molduras-e-acabamentos
+- Painéis e Revestimentos 3D: https://gamin6031.github.io/GessoKauan/#/servicos/paineis-e-revestimentos-3d
+- Reparos e Reformas: https://gamin6031.github.io/GessoKauan/#/servicos/reparos-e-reformas
+
+## Contato recomendado
+
+Para solicitar orçamento, o canal principal é o WhatsApp:
+https://wa.me/5511947204939
+
+## Observação técnica
+
+Este site é uma SPA em Vite + React hospedada no GitHub Pages e atualmente usa HashRouter. Por isso, as rotas navegáveis aparecem depois de "#/".
